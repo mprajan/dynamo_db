@@ -33,11 +33,17 @@ console.log('111111-->');
         const test = async()=>{
             try{
 
-                const list = await dynamoDB.listTables()
-                console.log('list-->', list);
+                const list = await dynamoDB.listTables({ Limit : 10}, (err, data) => {
+                    if(err) {
+                        console.log("Error", err);
+                    } else {
+                        console.log("Table Names are", data.TableNames);
+                    }
+                })
+                // console.log('list-->', list);
             } catch(err){
                 console.log('err-->', err);
             }
             
         }
-        // test()
+        test()
