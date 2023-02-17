@@ -1,0 +1,7 @@
+
+As first : npm init
+Then install pacakge node_modules will appears...
+
+  -->> npm i aws-sdk
+  -->> npm i express
+  
