@@ -5,3 +5,71 @@ Then install pacakge node_modules will appears...
   -->> npm i aws-sdk
   -->> npm i express
   
+
+Session Video : 
+
+https://drive.google.com/drive/folders/1qkwEDBPK_ogQvhiEj6IzjttafAxwuq7w?usp=share_link
+
+AWS - Cred : 
+
+rajan21012@gmail.com
+Rajan_AWS
+RajanAWS@21
+
+Github - Cred : 
+ 
+mprajan96@gmail.com
+
+Rajan@021
+
+
+
+Doc for federated login : https://docs.amplify.aws/lib/auth/social/q/platform/js/ 
+
+Access key :
+
+
+AKIAQFJDU3DECYG5PCXC
+/Mhr8NoHGQwD9ZN++XW5auQOI/seZ80BH9tvY7Bq
+
+
+IAM user :  011349055688
+rajan_IAM
+Rajan_IAM@123
+
+
+
+Cognito : 
+
+Federation Login : 
+
+https://www.youtube.com/watch?v=eqDUSY9KHYE
+
+
+Sudalai bro - 
+
+https://docs.amplify.aws/lib/auth/social/q/platform/js/#setup-your-auth-provider
+
+https://docs.amplify.aws/lib/auth/social/q/platform/js/ -- docs
+
+https://drive.google.com/file/d/121PfwxK4ixyq6Oo_N_iv6evWhjE_plDl/view?usp=sharing
+
+
+
+DynamoDB : 
+
+
+https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/dynamodb-example-table-read-write.html
+
+
+
+https://dynobase.dev/dynamodb-nodejs/#setup 
+
+https://dynobase.dev/dynamodb-data-types/
+
+
+
+
+S3 -
+
+https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/S3.html#getObject-property
